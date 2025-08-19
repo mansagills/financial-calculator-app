@@ -81,7 +81,7 @@ const CalculatorGrid: React.FC = () => {
       {/* Header */}
       <header className="header">
         <Link to="/" className="logo">
-          FINANCECALC<span className="org">.com</span>
+          FREEFINANCECALCULATOR<span className="org">.ORG</span>
         </Link>
         <nav className="nav">
           <Link to="/">HOME</Link>
